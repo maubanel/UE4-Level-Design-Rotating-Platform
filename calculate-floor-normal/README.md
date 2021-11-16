@@ -67,7 +67,9 @@ In the LineTrace, set the Draw Debug Type to For One Frame
 
 Compile and hit <b>Play</b>. See how the line points downward, roughly to where the foot is? It’s not super accurate, but it’s enough to get the information that we need. 
 
-## 2021-11-09 10-39-22.mp4
+
+https://user-images.githubusercontent.com/20305074/142026234-c709e37c-c943-44ea-aa4f-0dab9a95c420.mp4
+
 <br>
 <img src="https://via.placeholder.com/500x2/45D7CA/45D7CA" alt="drawing" height="2px" alt = ""/>
 
