@@ -77,7 +77,9 @@ Now go back up to the second Branch you made (the one right before the Add Force
 
 Compile everything and return to the game scene. Press Play and check out the new behavior.
 
-## 2021-11-11 11-03-37.mp4
+
+https://user-images.githubusercontent.com/20305074/142026002-963f92db-9618-42db-924d-da4de640974e.mp4
+
 <br>
 See how much easier it is to slip off? That’s because we’re checking for each foot’s normal relative to the ground, and forcing the player to slip if either foot is at an angle. 
 <br>
